@@ -5,8 +5,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiyouchichikiyuuwa&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
-[![知乎](https://www.zhihu.com/people/41-56-3-10)     [![BiliBili](https://space.bilibili.com/499424227?spm_id_from=333.1007.0.0) 
-
+[![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-mq%E7%99%BD-yello)](https://www.zhihu.com/people/41-56-3-10)    [![BiliBili](https://img.shields.io/badge/video-BiliBili-red)](https://space.bilibili.com/499424227?spm_id_from=333.1007.0.0) 
 
 ![](https://img.shields.io/badge/讨厌-学习-green) 
 ![](https://img.shields.io/badge/性格-开朗-WHITE) 
