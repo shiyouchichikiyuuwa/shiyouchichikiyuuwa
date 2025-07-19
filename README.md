@@ -1,16 +1,21 @@
-## Hi there 👋
+# Make-Talwon
+<div id="title" align=center>
 
-<!--
-**shiyouchichikiyuuwa/shiyouchichikiyuuwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Modern C++ template][github-sub-title:img]
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiyouchichikiyuuwa&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![知乎](https://www.zhihu.com/people/41-56-3-10)     [![BiliBili](https://space.bilibili.com/499424227?spm_id_from=333.1007.0.0) 
+
+
+![](https://img.shields.io/badge/讨厌-学习-green) 
+![](https://img.shields.io/badge/性格-开朗-WHITE) 
+![](https://img.shields.io/badge/爱好-二次元-WHITE)
+
+</div>
+
+![头像](https://c-ssl.dtstatic.com/uploads/blog/202306/10/EWSMpLMwTV5vvj5.thumb.1000_0.jpg)
+
+![Visitor Count](https://profile-counter.glitch.me/Make-Talwon/count.svg)
+
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Make-Talwon.
