@@ -18,6 +18,5 @@
 
 ![头像](https://c-ssl.dtstatic.com/uploads/blog/202306/10/EWSMpLMwTV5vvj5.thumb.1000_0.jpg)
 
-![Visitor Count](https://profile-counter.glitch.me/Make-Talwon/count.svg)
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Make-Talwon.
